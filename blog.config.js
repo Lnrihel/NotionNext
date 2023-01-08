@@ -12,7 +12,7 @@ const BLOG = {
 
   AUTHOR: '棉花糖没甜', // 作者
   BIO: '一个普通的大学生⭐', // 作者简介
-  LINK: 'https://lnrihel.com', // 网站地址
+  LINK: 'https://tangly1024.com/', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'mail@tangly1024.com', // 邮箱
